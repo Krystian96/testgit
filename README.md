@@ -4,3 +4,7 @@
 * Drugie
 
 zadanie git
+
+-   Cukierki.
+-   Guma.
+-   Lizaki.
